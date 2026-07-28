@@ -83,7 +83,7 @@ An employee called and stated that her account has been locked out due to multup
 </p>
 <br />
 
-I navigate to the account tab and choose the box "Unlock Account" and click apply successfully unlocking the account. <br />
+I navigate to the account tab and choose the box "Unlock Account" and click apply successfully unlocking the account. This step can be done if the user simply needs to unlock the account if password reset is not needed. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser10.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
