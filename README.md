@@ -18,7 +18,8 @@ This home lab demonstrates common Active Directory administrative tasks performe
 
 - <b>Creating New User Account</b> <br />
 A new employee joins the Sales department and requires an Active Directory account for onboarding.  <br /> 
-
+</p>
+<br /> 
 
 Created a new Active Directory user account. <br />
 <br />
