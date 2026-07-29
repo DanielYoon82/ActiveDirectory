@@ -65,14 +65,9 @@ Verify the group using the Check Names feature.
 </p>
 <br />
 
+
 - <b>Disabling and Deleting User Accounts</b> <br/>
-HR reports that one employee has left the company, while another is taking a temporary leave of absence.  <br />
-
-To manage account access appropriately, I:
-
-- Deleted the account of the terminated employee
-- Disabled the account of the employee on leave
-- 
+HR reports that one employee has left the company, while another is taking a temporary leave of absence. First, delete the account of the terminated employee  <br />
 
 <br />
 <p align="center">
@@ -80,7 +75,8 @@ To manage account access appropriately, I:
 </p>
 <br />
 
-For the user that will be taking a temporary leave, I right-click and choose disable. Upon the employee's return, I will enable the user to restore accessibility. <br />
+<br />
+Disable the account of the employee on leave. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser8.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
