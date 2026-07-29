@@ -91,7 +91,7 @@ A user contacts the Help Desk after becoming locked out of their account due to 
 </p>
 <br />
 
-Unlocked the account through the Account tab. <br />
+Unlocked the account through the Account tab. This step can be done to only unlock the account as well. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser10.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
@@ -105,7 +105,7 @@ Reset the user's password. <br />
 </p>
 <br />
 
-Enabled the User must change password at next logon option.  <br />
+The User must change password at next logon option. Advised the user to create a strong, memorable password to reduce future lockouts. Unlocking the account can also be done here.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
@@ -113,6 +113,6 @@ Enabled the User must change password at next logon option.  <br />
 <br />
 
 - <b>Summary</b> <br />
-I demonstrated using Windows Active Directory with modeling a VM in creating, configuring, deleting, and disabling user accounts. In addition, unlocking and resetting a password was carried out using real-world scenarios. These common tasks are vital to user management protocol and done offhand frequently. 
+This lab demonstrates foundational Active Directory administration skills by simulating common IT Support responsibilities. Tasks included creating and managing user accounts, configuring security group membership, disabling and deleting accounts, unlocking locked accounts, and resetting passwords. These administrative tasks mirror everyday responsibilities performed by Help Desk and IT Support professionals in enterprise Windows environments.
 <br />
 <br />
