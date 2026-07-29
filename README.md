@@ -46,7 +46,10 @@ In this exercise, I:
 The employee also requires access to Marketing department resources.  <br />
 
 To provide the appropriate permissions, I:
-- 
+
+- Opened the user's account properties
+- Added the user to the Marketing security group
+- Verified the group using the Check Names feature
 
 <br />
 <p align="center">
