@@ -27,14 +27,14 @@ A new employee joins the Sales department and requires an Active Directory accou
 </p>
 <br /> 
 
-Assigned the appropriate username based on company naming conventions. <br /> 
+Assign the appropriate username based on company naming conventions. <br /> 
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
-Configured an initial temporary password and required the user to change their password at first logon.  <br /> 
+Configure an initial temporary password and required the user to change their password at first logon.  <br /> 
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
@@ -42,24 +42,23 @@ Configured an initial temporary password and required the user to change their p
 <br />
 
 - <b>Congifuring Group Membership</b> <br/>
-The employee also requires access to Marketing department resources.  <br />
+The employee also requires access to Marketing department resources. First, opene the user's account properties  <br />
 
-To provide the appropriate permissions, I:
-
-- Opened the user's account properties
-- Added the user to the Marketing security group
-- Verified the group using the Check Names feature
 
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser4.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
 
+Add the user to the Marketing security group.
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
 
+Verify the group using the Check Names feature.
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser6.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
