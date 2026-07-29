@@ -26,12 +26,14 @@ Created a new Active Directory user account. <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
+<br /> 
 
 Assigned the appropriate username based on company naming conventions. <br /> 
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
+<br /> 
 
 Configured an initial temporary password.  <br /> 
 <br />
