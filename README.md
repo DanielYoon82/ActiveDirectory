@@ -91,7 +91,7 @@ A user contacts the Help Desk after becoming locked out of their account due to 
 </p>
 <br />
 
-Unlocked the account through the Account tab. This step can be done to only unlock the account as well. <br />
+Unlock the account through the Account tab. This step can be done to only unlock the account as well. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser10.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
