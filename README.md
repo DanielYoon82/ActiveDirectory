@@ -23,7 +23,7 @@ In this exercise, I:</b>
 
 - Created a new Active Directory user account.
 - Assigned the appropriate username based on company naming conventions.
-- Configured an initial temporary password.R
+- Configured an initial temporary password.
 - Required the user to change their password at first logon.
 
 <br />
@@ -43,7 +43,7 @@ In this exercise, I:</b>
 <br />
 
 - <b>Congifuring Group Membership</b> <br/>
-The head of the Marketing Department requested to add the new hire added to their group. I right-click on the new user and choose properties.  <br />
+The employee also requires access to Marketing department resources.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser4.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
