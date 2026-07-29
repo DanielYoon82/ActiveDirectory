@@ -31,9 +31,7 @@ Created a new Active Directory user account, assigned the appropriate username b
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
 
-A temporary password is set for the user in which they must change with their own unique one thereafter. Setting up the new user is now complete. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
