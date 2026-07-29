@@ -17,15 +17,13 @@ This home lab demonstrates common Active Directory administrative tasks performe
 
 
 - <b>Creating New User Account</b> <br />
-A new employee joins the Sales department and requires an Active Directory account for onboarding.  <br />
+A new employee joins the Sales department and requires an Active Directory account for onboarding.  <br /> 
 
-In this exercise, I: 
-
-- Created a new Active Directory user account.
 - Assigned the appropriate username based on company naming conventions.
 - Configured an initial temporary password.
 - Required the user to change their password at first logon.
 
+Created a new Active Directory user account. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
@@ -67,8 +65,15 @@ To provide the appropriate permissions, I:
 </p>
 <br />
 
-- <b>Deleting and Disabling User Accounts</b> <br/>
-HR has notified me that one employee will no longer will be with the company and another will be taking a temporary leave. I am tasked with deleting and disabling their accounts. First, I will delete Robert's account to take effect immediately. I right-click on the user and choose delete.  <br />
+- <b>Disabling and Deleting User Accounts</b> <br/>
+HR reports that one employee has left the company, while another is taking a temporary leave of absence.  <br />
+
+To manage account access appropriately, I:
+
+- Deleted the account of the terminated employee
+- Disabled the account of the employee on leave
+- 
+
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser7.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
