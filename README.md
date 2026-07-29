@@ -21,7 +21,11 @@ A new employee joins the Sales department and requires an Active Directory accou
 
 In this exercise, I:</b> 
 
-- Created a new Active Directory user account, assigned the appropriate username based on company naming conventions, configured an initial temporary password, and required the user to change their password at first logon.
+- Created a new Active Directory user account.
+- Assigned the appropriate username based on company naming conventions.
+- Configured an initial temporary password.R
+- Required the user to change their password at first logon.
+
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
