@@ -76,7 +76,7 @@ HR reports that one employee has left the company, while another is taking a tem
 <br />
 
 <br />
-Disable the account of the employee on leave. <br />
+Disable the account of the employee on leave. Explained that disabled accounts can be re-enabled when the employee returns. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser8.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
@@ -84,28 +84,28 @@ Disable the account of the employee on leave. <br />
 <br />
 
 - <b>Unlocking Account and Resetting Password</b> <br/>
-An employee called and stated that her account has been locked out due to multuple log in attempts and forgetting her password. A request was made to also reset the password. I first right-click on users and find the name.  <br />
+A user contacts the Help Desk after becoming locked out of their account due to multiple failed login attempts. First, locate the user account in Active Directory.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser9.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-I navigate to the account tab and choose the box "Unlock Account" and click apply successfully unlocking the account. This step can be done if the user simply needs to unlock the account if password reset is not needed. <br />
+Unlocked the account through the Account tab. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser10.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-I then proceed with right-clicking the user and choose the reset password option. <br />
+Reset the user's password. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser11.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-Password has been chosen and the user has been notified to change the password at next logon. Explaining to the user a password that is complex yet easy to remember is advised to avoid situations like this in the future. Unlocking the account can also be done when resetting password.  <br />
+Enabled the User must change password at next logon option.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
