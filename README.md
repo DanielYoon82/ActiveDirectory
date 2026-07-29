@@ -1,7 +1,7 @@
-<h1>Home Lab - Managing Users in Active Directory</h1>
+<h1>Home Lab - Active Directory User Administration</h1>
 
 <h2>Description</h2>
-In this virtual machine I demonstrate user management, unlocking an account, and password reset in Active Directory.  
+This home lab demonstrates common Active Directory administrative tasks performed by IT Support and Help Desk professionals. The project simulates real-world service desk scenarios involving user account management, security, and access administration.  
 <br />
 
 
@@ -16,8 +16,15 @@ In this virtual machine I demonstrate user management, unlocking an account, and
 <h2>Program walk-through:</h2>
 
 
-- <b>Create New User Account</b> <br />
-John Doe is a new hire for the head of the Sales Department. I am assigned to create him as a new user for onboarding. First, I right-click on the Sales OU, then select user.
+- <b>Creating New User Account</b> <br />
+A new employee joins the Sales department and requires an Active Directory account for onboarding.  <br />
+
+In this exercise, I:
+
+Created a new Active Directory user account
+Assigned the appropriate username based on company naming conventions
+Configured an initial temporary password
+Required the user to change their password at first logon
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
