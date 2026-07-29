@@ -19,7 +19,7 @@ This home lab demonstrates common Active Directory administrative tasks performe
 - <b>Creating New User Account</b> <br />
 A new employee joins the Sales department and requires an Active Directory account for onboarding.  <br />
 
-<b>In this exercise, I:
+<br />In this exercise, I:</b> 
 
 <br />Created a new Active Directory user account, assigned the appropriate username based on company naming conventions, configured an initial temporary password, and required the user to change their password at first logon.
 <br />
