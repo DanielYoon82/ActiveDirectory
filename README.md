@@ -42,7 +42,7 @@ Configure an initial temporary password and require the user to change their pas
 <br />
 
 - <b>Congifuring Group Membership</b> <br/>
-The employee also requires access to Marketing department resources. First, opene the user's account properties  <br />
+The employee also requires access to Marketing department resources. First, open the user's account properties  <br />
 
 
 <br />
@@ -51,7 +51,7 @@ The employee also requires access to Marketing department resources. First, open
 </p>
 <br />
 
-Add the user to the Marketing security group.
+Add the user to the Marketing group.
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
