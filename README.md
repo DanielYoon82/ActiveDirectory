@@ -105,7 +105,7 @@ Reset the user's password. <br />
 </p>
 <br />
 
-The User must change password at next logon option. Advised the user to create a strong, memorable password to reduce future lockouts. Unlocking the account can also be done here.  <br />
+The user must change password at next logon option. Advised the user to create a strong, memorable password to reduce future lockouts. Unlocking the account can also be done here.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
