@@ -34,7 +34,7 @@ Assign the appropriate username based on company naming conventions. <br />
 </p>
 <br /> 
 
-Configure an initial temporary password and required the user to change their password at first logon.  <br /> 
+Configure an initial temporary password and require the user to change their password at first logon.  <br /> 
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
