@@ -5,13 +5,9 @@ This home lab demonstrates common Active Directory administrative tasks performe
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Environment Used </h2>
 
-- <b>Windows 10</b> 
-
-<h2>Environments Used </h2>
-
-- <b>Windows Server 2019</b>
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
