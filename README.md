@@ -95,7 +95,6 @@ The employee also requires access to shared Marketing department resources.
 </p>
 <br />
 
-Verify the group using the Check Names feature.
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser6.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
@@ -103,8 +102,20 @@ Verify the group using the Check Names feature.
 <br />
 
 
-- <b>Disabling and Deleting User Accounts</b> <br/>
-HR reports that one employee has left the company, while another is taking a temporary leave of absence. First, delete the account of the terminated employee  <br />
+<h3>Scenario 3 – Managing User Accounts</h3>
+Human Resources reports that one employee has permanently left the company while another is taking a temporary leave of absence.  <br />
+
+- <b>Issue</b> <br />
+Human Resources reports that one employee has permanently left the company while another is taking a temporary leave of absence.
+</p>  
+<br />
+
+- <b>Actions Performed</b> <br />
+- Deleted the account of the terminated employee
+- Disabled the account of the employee on leave
+- Verified the account status changes
+- Documented that disabled accounts can be re-enabled when the employee returns
+
 
 <br />
 <p align="center">
@@ -120,36 +131,56 @@ Disable the account of the employee on leave. Explained that disabled accounts c
 </p>
 <br />
 
-- <b>Unlocking Account and Resetting Password</b> <br/>
-A user contacts the Help Desk after becoming locked out of their account due to multiple failed login attempts. First, locate the user account in Active Directory.  <br />
+<h3>Scenario 4 – Unlocking an Account and Resetting a Password</h3>
+
+- <b>Issue</b> <br />
+A user contacts the Help Desk after becoming locked out due to multiple unsuccessful login attempts.
+</p>  
+<br />
+
+- <b>Actions Performed</b> <br />
+- Located the user's account in Active Directory
+- Unlocked the account
+- Reset the user's password
+- Enabled User must change password at next logon
+- Advised the user to create a strong, memorable password
+- Verified the account was accessible
+
+
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser9.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-Unlock the account through the Account tab. This step can be done to only unlock the account as well. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser10.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-Reset the user's password. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser11.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-The user must change password at next logon option. Advised the user to create a strong, memorable password to reduce future lockouts. Unlocking the account can also be done here.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser12.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-- <b>Summary</b> <br />
-This lab demonstrates foundational Active Directory administration skills by simulating common IT Support responsibilities. Tasks included creating and managing user accounts, configuring security group membership, disabling and deleting accounts, unlocking locked accounts, and resetting passwords. These administrative tasks mirror everyday responsibilities performed by Help Desk and IT Support professionals in enterprise Windows environments.
+- <b>Administrative Tasks Demonstrated</b> <br /> 
+- ser account creation
+- User account provisioning
+- Password administration
+- Account unlock
+- Security group management
+- Account disablement
+- Account deletion
+- User lifecycle management
 <br />
-<br />
+
+<h3>Key Takeaways</h3>
+This lab demonstrates foundational Active Directory administration skills commonly performed by Help Desk and IT Support professionals. It showcases the ability to provision new user accounts, manage access through security groups, perform password resets, unlock user accounts, and administer the full user account lifecycle using Active Directory Users and Computers.
