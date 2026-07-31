@@ -70,7 +70,6 @@ A newly hired employee in the Sales department requires an Active Directory acco
 <br />
 
 <h2>Scenario 2 – Configuring Security Group Membership</h2>
-The employee also requires access to Marketing department resources. First, open the user's account properties  <br />
 
 
 - <b>Issue</b> <br />
