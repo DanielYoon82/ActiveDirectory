@@ -4,7 +4,7 @@
 This home lab demonstrates common Active Directory administrative tasks performed by IT Support and Help Desk professionals. The project simulates real-world service desk scenarios involving user account management, security, and access administration.  
 <br />
 
-<h2>Objectives</h2>
+<h3>Objectives</h3>
 
 - Create and manage Active Directory user accounts
 - Configure user account settings and security options
@@ -13,13 +13,13 @@ This home lab demonstrates common Active Directory administrative tasks performe
 - Disable and delete user accounts based on business requirements
 - Follow common Help Desk administrative procedures
 
-<h2>Environment </h2>
+<h3>Environment </h3>
 
 - Windows Server (Active Directory Domain Services)
 - Windows 10 Client
 - Active Directory Users and Computers (ADUC)
 
-<h2>Skills Demonstrated </h2>
+<h3>Skills Demonstrated </h3>
 
 - Active Directory Administration
 - User Account Provisioning
@@ -31,11 +31,11 @@ This home lab demonstrates common Active Directory administrative tasks performe
 - Help Desk Documentation
 - Identity and Access Management (IAM)
 
-<h2>Program walk-through:</h2>
+<h3>Scenario 1 – Creating a New User Account</h3>
 
 
-- <b>Creating New User Account</b> <br />
-A new employee joins the Sales department and requires an Active Directory account for onboarding. First, I create a new Active Directory user account.
+- <b>Issue</b> <br />
+A newly hired employee in the Sales department requires an Active Directory account to access company resources.
 </p>  
 <br />
 
