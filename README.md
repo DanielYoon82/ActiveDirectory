@@ -5,7 +5,8 @@ This home lab demonstrates common Active Directory administrative tasks performe
 <br />
 
 <h2>Objectives</h2>
-- <b>Create and manage Active Directory user accounts
+
+- Create and manage Active Directory user accounts
 - Configure user account settings and security options
 - Assign security group memberships
 - Perform password resets and account unlocks
