@@ -26,7 +26,7 @@ A new employee joins the Sales department and requires an Active Directory accou
 Assign the appropriate username based on company naming conventions. <br /> 
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
