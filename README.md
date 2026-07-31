@@ -1,6 +1,6 @@
 <h1>Home Lab - Active Directory User Administration</h1>
 
-<h2>Project Overview</h2>
+<h3>Project Overview</h3>
 This home lab demonstrates common Active Directory administrative tasks performed by IT Support and Help Desk professionals. The project simulates real-world service desk scenarios involving user account management, security, and access administration.  
 <br />
 
