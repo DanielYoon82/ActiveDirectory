@@ -13,9 +13,23 @@ This home lab demonstrates common Active Directory administrative tasks performe
 - Disable and delete user accounts based on business requirements
 - Follow common Help Desk administrative procedures
 
-<h2>Environment Used </h2>
+<h2>Environment </h2>
 
-- <b>Windows 10</b>
+- Windows Server (Active Directory Domain Services)
+- Windows 10 Client
+- Active Directory Users and Computers (ADUC)
+
+<h2>Skills Demonstrated </h2>
+
+- Active Directory Administration
+- User Account Provisioning
+- Password Reset Procedures
+- Account Unlock
+- Security Group Management
+- User Lifecycle Management
+- Access Control
+- Help Desk Documentation
+- Identity and Access Management (IAM)
 
 <h2>Program walk-through:</h2>
 
