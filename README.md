@@ -30,8 +30,10 @@ This home lab demonstrates common Active Directory administrative tasks performe
 - Access Control
 - Help Desk Documentation
 - Identity and Access Management (IAM)
+</p>  
+<br />
 
-<h3>Scenario 1 – Creating a New User Account</h3>
+<h2>Scenario 1 – Creating a New User Account</h2>
 
 
 - <b>Issue</b> <br />
@@ -67,7 +69,7 @@ A newly hired employee in the Sales department requires an Active Directory acco
 </p>
 <br />
 
-<h3>Scenario 2 – Configuring Security Group Membership</h3>
+<h2>Scenario 2 – Configuring Security Group Membership</h2>
 The employee also requires access to Marketing department resources. First, open the user's account properties  <br />
 
 - <b>Issue</b> <br />
@@ -102,7 +104,7 @@ The employee also requires access to shared Marketing department resources.
 <br />
 
 
-<h3>Scenario 3 – Managing User Accounts</h3>
+<h2>Scenario 3 – Managing User Accounts</h2>
 Human Resources reports that one employee has permanently left the company while another is taking a temporary leave of absence.  <br />
 
 - <b>Issue</b> <br />
@@ -131,7 +133,7 @@ Disable the account of the employee on leave. Explained that disabled accounts c
 </p>
 <br />
 
-<h3>Scenario 4 – Unlocking an Account and Resetting a Password</h3>
+<h2>Scenario 4 – Unlocking an Account and Resetting a Password</h2>
 
 - <b>Issue</b> <br />
 A user contacts the Help Desk after becoming locked out due to multiple unsuccessful login attempts.
@@ -182,5 +184,5 @@ A user contacts the Help Desk after becoming locked out due to multiple unsucces
 - User lifecycle management
 <br />
 
-<h3>Key Takeaways</h3>
+<h2>Key Takeaways</h2>
 This lab demonstrates foundational Active Directory administration skills commonly performed by Help Desk and IT Support professionals. It showcases the ability to provision new user accounts, manage access through security groups, perform password resets, unlock user accounts, and administer the full user account lifecycle using Active Directory Users and Computers.
