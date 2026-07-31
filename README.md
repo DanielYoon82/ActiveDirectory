@@ -39,28 +39,48 @@ A newly hired employee in the Sales department requires an Active Directory acco
 </p>  
 <br />
 
+- <b>Actions Performed</b> <br />
+- Opened Active Directory Users and Computers
+- Created a new user account
+- Assigned a username following company naming conventions
+- Configured an initial temporary password
+- Enabled User must change password at next logon
+- Verified the account was successfully created
+</p>  
+<br />
+
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
-Assign the appropriate username based on company naming conventions. <br /> 
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
-Configure an initial temporary password and require the user to change their password at first logon.  <br /> 
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-- <b>Congifuring Group Membership</b> <br/>
+<h3>Scenario 2 – Configuring Security Group Membership</h3>
 The employee also requires access to Marketing department resources. First, open the user's account properties  <br />
+
+- <b>Issue</b> <br />
+The employee also requires access to shared Marketing department resources.
+</p>  
+<br />
+
+- <b>Actions Performed</b> <br />
+- Opened the user's account properties
+- Navigated to the Member Of tab
+- Added the user to the Marketing security group
+- Verified group membership using the Check Names feature
+- Confirmed the appropriate permissions were assigned
 
 
 <br />
@@ -69,7 +89,6 @@ The employee also requires access to Marketing department resources. First, open
 </p>
 <br />
 
-Add the user to the Marketing group.
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
