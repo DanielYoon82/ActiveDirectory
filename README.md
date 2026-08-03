@@ -115,6 +115,7 @@ Human Resources reports that one employee has permanently left the company while
 <br />
 
 <h3>Actions Performed </h3>
+
 - Deleted the account of the terminated employee
 - Disabled the account of the employee on leave
 - Verified the account status changes
