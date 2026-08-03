@@ -125,8 +125,7 @@ Human Resources reports that one employee has permanently left the company while
 </p>
 <br />
 
-<br />
-Disable the account of the employee on leave. Explained that disabled accounts can be re-enabled when the employee returns. <br />
+
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser8.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
