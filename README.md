@@ -36,12 +36,12 @@ This home lab demonstrates common Active Directory administrative tasks performe
 <h2>Scenario 1 – Creating a New User Account</h2>
 
 
-- <b>Issue</b> <br />
+<h3>Issue </h3> <br />
 A newly hired employee in the Sales department requires an Active Directory account to access company resources.
 </p>  
 <br />
 
-- <b>Actions Performed</b> <br />
+<h3>Actions Performed </h3> <br />
 - Opened Active Directory Users and Computers
 - Created a new user account
 - Assigned a username following company naming conventions
