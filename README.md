@@ -42,6 +42,7 @@ A newly hired employee in the Sales department requires an Active Directory acco
 <br />
 
 <h3>Actions Performed </h3>
+
 - Opened Active Directory Users and Computers
 - Created a new user account
 - Assigned a username following company naming conventions
