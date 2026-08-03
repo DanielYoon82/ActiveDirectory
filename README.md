@@ -79,6 +79,7 @@ The employee also requires access to shared Marketing department resources.
 <br />
 
 <h3>Actions Performed </h3>
+
 - Opened the user's account properties
 - Navigated to the Member Of tab
 - Added the user to the Marketing security group
