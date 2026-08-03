@@ -143,6 +143,7 @@ A user contacts the Help Desk after becoming locked out due to multiple unsucces
 <br />
 
 <h3>Actions Performed </h3>
+
 - Located the user's account in Active Directory
 - Unlocked the account
 - Reset the user's password
