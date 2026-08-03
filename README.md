@@ -73,12 +73,12 @@ A newly hired employee in the Sales department requires an Active Directory acco
 <h2>Scenario 2 – Configuring Security Group Membership</h2>
 
 
-- <b>Issue</b> <br />
+<h3>Issue </h3>
 The employee also requires access to shared Marketing department resources.
 </p>  
 <br />
 
-- <b>Actions Performed</b> <br />
+<h3>Actions Performed </h3>
 - Opened the user's account properties
 - Navigated to the Member Of tab
 - Added the user to the Marketing security group
@@ -108,12 +108,12 @@ The employee also requires access to shared Marketing department resources.
 <h2>Scenario 3 – Managing User Accounts</h2>
 Human Resources reports that one employee has permanently left the company while another is taking a temporary leave of absence.  <br />
 
-- <b>Issue</b> <br />
+<h3>Issue </h3>
 Human Resources reports that one employee has permanently left the company while another is taking a temporary leave of absence.
 </p>  
 <br />
 
-- <b>Actions Performed</b> <br />
+<h3>Actions Performed </h3>
 - Deleted the account of the terminated employee
 - Disabled the account of the employee on leave
 - Verified the account status changes
@@ -135,12 +135,12 @@ Human Resources reports that one employee has permanently left the company while
 
 <h2>Scenario 4 – Unlocking an Account and Resetting a Password</h2>
 
-- <b>Issue</b> <br />
+<h3>Issue </h3>
 A user contacts the Help Desk after becoming locked out due to multiple unsuccessful login attempts.
 </p>  
 <br />
 
-- <b>Actions Performed</b> <br />
+<h3>Actions Performed </h3>
 - Located the user's account in Active Directory
 - Unlocked the account
 - Reset the user's password
