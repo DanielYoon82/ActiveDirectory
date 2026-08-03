@@ -106,7 +106,7 @@ The employee also requires access to shared Marketing department resources.
 
 
 <h2>Scenario 3 – Managing User Accounts</h2>
-Human Resources reports that one employee has permanently left the company while another is taking a temporary leave of absence.  <br />
+
 
 <h3>Issue </h3>
 Human Resources reports that one employee has permanently left the company while another is taking a temporary leave of absence.
