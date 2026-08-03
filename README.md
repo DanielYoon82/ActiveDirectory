@@ -178,7 +178,7 @@ A user contacts the Help Desk after becoming locked out due to multiple unsucces
 
 <h3>Administrative Tasks Demonstrated </h3>
 
-- ser account creation
+- Set account creation
 - User account provisioning
 - Password administration
 - Account unlock
