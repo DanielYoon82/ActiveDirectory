@@ -56,7 +56,6 @@ A newly hired employee in the Sales department requires an Active Directory acco
 <br /> 
 
 - Created a new user account
-<br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
@@ -64,7 +63,6 @@ A newly hired employee in the Sales department requires an Active Directory acco
 
 - Configured an initial temporary password
 - Enabled User must change password at next logon
-<br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
@@ -81,14 +79,12 @@ The employee also requires access to shared Marketing department resources.
 <h3>Actions Performed </h3>
 
 - Opened the user's account properties
-<br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser4.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 - Navigated to the Member Of tab
-<br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
@@ -97,7 +93,6 @@ The employee also requires access to shared Marketing department resources.
 - Added the user to the Marketing security group
 - Verified group membership using the Check Names feature
 - Confirmed the appropriate permissions were assigned
-<br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser6.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
@@ -115,19 +110,13 @@ Human Resources reports that one employee has permanently left the company while
 <h3>Actions Performed </h3>
 
 - Deleted the account of the terminated employee
-- Disabled the account of the employee on leave
-- Verified the account status changes
-- Documented that disabled accounts can be re-enabled when the employee returns
-
-
-<br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser7.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 
-<br />
+- Disabled the account of the employee on leave
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser8.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
@@ -143,11 +132,8 @@ A user contacts the Help Desk after becoming locked out due to multiple unsucces
 <h3>Actions Performed </h3>
 
 - Located the user's account in Active Directory
-- Unlocked the account
-- Reset the user's password
 - Enabled User must change password at next logon
 - Advised the user to create a strong, memorable password
-- Verified the account was accessible
 
 
 <br />
@@ -156,18 +142,22 @@ A user contacts the Help Desk after becoming locked out due to multiple unsucces
 </p>
 <br />
 
+- Unlocked the account (this step can be done if user only needs to unlock the account in the event they remember the password)
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser10.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+- Reset the user's password
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser11.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+- Enabled User must change password at next logon
+- Advise the user to create a strong, memorable password
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser12.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
