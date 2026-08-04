@@ -33,6 +33,12 @@ This home lab demonstrates common Active Directory administrative tasks performe
 </p>  
 <br />
 
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectoryUsers/blob/main/images/ActiveDirectoryUserDiagram.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
+</p>
+<br /> 
+
 <h2>Scenario 1 – Creating a New User Account</h2>
 
 
