@@ -132,11 +132,6 @@ A user contacts the Help Desk after becoming locked out due to multiple unsucces
 <h3>Actions Performed </h3>
 
 - Located the user's account in Active Directory
-- Enabled User must change password at next logon
-- Advised the user to create a strong, memorable password
-
-
-<br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser9.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
@@ -157,7 +152,7 @@ A user contacts the Help Desk after becoming locked out due to multiple unsucces
 <br />
 
 - Enabled User must change password at next logon
-- Advise the user to create a strong, memorable password
+- Advise the user to create a strong, memorable password (unlocking user's account can also be be done in this window)
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser12.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
