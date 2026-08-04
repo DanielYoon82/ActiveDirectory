@@ -50,7 +50,6 @@ A newly hired employee in the Sales department requires an Active Directory acco
 <h3>Actions Performed </h3>
 
 - Opened Active Directory Users and Computers
-<br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
@@ -82,24 +81,22 @@ The employee also requires access to shared Marketing department resources.
 <h3>Actions Performed </h3>
 
 - Opened the user's account properties
-- Navigated to the Member Of tab
-- Added the user to the Marketing security group
-- Verified group membership using the Check Names feature
-- Confirmed the appropriate permissions were assigned
-
-
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser4.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+- Navigated to the Member Of tab
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+- Added the user to the Marketing security group
+- Verified group membership using the Check Names feature
+- Confirmed the appropriate permissions were assigned
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser6.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
