@@ -50,7 +50,6 @@ A newly hired employee in the Sales department requires an Active Directory acco
 <h3>Actions Performed </h3>
 
 - Opened Active Directory Users and Computers
-- Created a new user account
 - Assigned a username following company naming conventions
 - Configured an initial temporary password
 - Enabled User must change password at next logon
@@ -64,6 +63,7 @@ A newly hired employee in the Sales department requires an Active Directory acco
 </p>
 <br /> 
 
+- Created a new user account
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
