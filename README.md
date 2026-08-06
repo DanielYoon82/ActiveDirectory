@@ -62,7 +62,7 @@ A newly hired employee in the Sales department requires an Active Directory acco
 <br /> 
 
 - Configured an initial temporary password
-- Enabled User must change password at next logon
+- Enabled user must change password at next logon
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
