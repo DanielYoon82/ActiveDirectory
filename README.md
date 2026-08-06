@@ -49,7 +49,7 @@ A newly hired employee in the Sales department requires an Active Directory acco
 
 <h3>Actions Performed </h3>
 
-- Opened Active Directory Users and Computers
+- Opened Active Directory Users
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 </p>
